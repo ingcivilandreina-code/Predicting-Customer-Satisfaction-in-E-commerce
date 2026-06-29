@@ -1,5 +1,5 @@
 Business case:
-AMAZOFF, una empresa ficticia de e-commerce, busca comprender los factores que influyen en la satisfacción de sus clientes y desarrollar un modelo predictivo que permita anticipar el nivel de satisfacción de futuros pedidos.
+TERRENAL, una empresa ficticia de e-commerce, busca comprender los factores que influyen en la satisfacción de sus clientes y desarrollar un modelo predictivo que permita anticipar el nivel de satisfacción de futuros pedidos.
 Este proyecto aplica un flujo completo de Ciencia de Datos para transformar datos operacionales en información útil para la toma de decisiones.
 
 Objetivos del proyecto:
